@@ -1,0 +1,4 @@
+site_name: Blog
+site_url: https://kikinovak.github.io/mkdocs-blog/
+theme:
+  name: material
